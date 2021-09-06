@@ -24,7 +24,7 @@ public class Runner {
             listLinked.add(index, iterator.previous());
             index += 2;
         }
-
+        System.out.println("______________");
         System.out.println(listLinked);
     }
 }
